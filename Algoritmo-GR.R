@@ -544,8 +544,7 @@ Epsilon <- 0.00075
 #' 2. T-drive
 #' 3. Geolife
 #' @param algoritmo 
-#' 1. TDTR
-#' 2. DRP
+#' 1. GR
 #' @param kalman 
 #' TRUE  Aplica kalman
 #' FALSE No aplica Kalman
